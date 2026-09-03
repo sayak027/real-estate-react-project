@@ -2,6 +2,10 @@
 
 A responsive real estate website built with React and Tailwind CSS.
 
+## Live Demo
+
+[View Live Demo](https://sayak-real-estate.vercel.app/)
+
 ## Technologies Used
 
 - React.js
